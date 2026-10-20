@@ -1,0 +1,5 @@
+# Copy to .env (local dev only). Never commit real keys.
+# Preferred for Streamlit Cloud: .streamlit/secrets.toml -> [general] GEMINI_API_KEY
+GEMINI_API_KEY=
+GEMINI_MODEL=gemini-2.0-flash
+APP_ENV=development
